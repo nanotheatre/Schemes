@@ -1,4 +1,4 @@
-<table>
+<table bgcolor="white">
   <tr>
     <td bgcolor="#eee">
       <a href="https://nanotheatre.github.io/visio-1?Wanulawe">
